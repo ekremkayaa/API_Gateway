@@ -1,0 +1,1 @@
+INSERT INTO PERSONSDB(id,name) values (0,'Ekrem');
